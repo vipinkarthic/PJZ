@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-5996300003867909233
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0d9cf11589b7a34ca6e2c52bae6eb70, type: 3}
+  m_Name: StraightRoad
+  m_EditorClassIdentifier: 
+  _guid:
+    _guidString: 6f73f72f-2d7d-4599-889e-b2d70cb057fa
+  _pluginPrefab: {fileID: -5257897821054403638, guid: 322e22a40dcfcbe48b2696f6fd3c41ea, type: 2}
+  _preview:
+    _prefabAsset: {fileID: 1968679977221537321, guid: 15f9951c979f9764888f1aa93dfc2799, type: 3}
+    _texture: {fileID: 0}
+    _yaw: 0
+    _pitch: 0
+  _uiSelected: 0
+  _used: 1
+  _spawnChance: 1
+  _cellXCondition: 0
+  _minCellX: -10
+  _maxCellX: 10
+  _cellYCondition: 0
+  _minCellY: -10
+  _maxCellY: 10
+  _cellZCondition: 0
+  _minCellZ: -10
+  _maxCellZ: 10
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00743c030598d944fbb81f14e930ce63, type: 3}
+  m_Name: RoadTileSet
+  m_EditorClassIdentifier: 
+  _profileName: RoadTileSet
+  _tileRules: []
+--- !u!114 &5404528929369354383
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79c745aa5119a074084fa542ea1e3ece, type: 3}
+  m_Name: TileRule
+  m_EditorClassIdentifier: 
+  _ruleType: 0
+  _ruleRotationMode: 1
+  _ruleMask:
+    _reqOnMask: 16777216
+    _rotatedReqOnMask_90: 16777216
+    _rotatedReqOnMask_180: 16777216
+    _rotatedReqOnMask_270: 16777216
+    _mirrXReqOnMask: 16777216
+    _mirrZReqOnMask: 16777216
+    _numReqOnBitsSet: 1
+    _reqOffMask: 0
+    _rotatedReqOffMask_90: 0
+    _rotatedReqOffMask_180: 0
+    _rotatedReqOffMask_270: 0
+    _mirrXReqOffMask: 0
+    _mirrZReqOffMask: 0
+    _numReqOffBitsSet: 0
+  _prefabs:
+  - {fileID: -5996300003867909233}
+  _prefabViewState: {fileID: -3551300768280271613, guid: 609393d4cb6e3c646ab6fad55e7b551c, type: 2}

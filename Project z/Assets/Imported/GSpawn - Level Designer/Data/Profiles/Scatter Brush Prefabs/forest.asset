@@ -1,0 +1,618 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8580170861319675224
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9fd0c34ebc5e2f4bb376f0d8a5bcf72, type: 3}
+  m_Name: SM_Env_Tree_Pine_Tall_03
+  m_EditorClassIdentifier: 
+  _guid:
+    _guidString: 616e0201-cfb8-4ce7-b02d-bd13e8218578
+  _pluginPrefab: {fileID: 6350670307760411483, guid: 322e22a40dcfcbe48b2696f6fd3c41ea, type: 2}
+  _preview:
+    _prefabAsset: {fileID: 1819279320033826, guid: bf2e5596a3cc3f34d952e18cee55d5c5, type: 3}
+    _texture: {fileID: 0}
+    _yaw: 0
+    _pitch: 0
+  _uiSelected: 1
+  _used: 1
+  _spawnChance: 0.3
+  _volumeRadius: 2
+  _alignAxis: 0
+  _alignmentAxis: 1
+  _invertAlignmentAxis: 0
+  _offsetFromSurface: 0
+  _embedInSurface: 1
+  _alignToStroke: 0
+  _strokeAlignmentAxis: 3
+  _invertStrokeAlignmentAxis: 0
+  _randomizeRotation: 1
+  _rotationRandomizationAxis: 3
+  _minRandomRotation: 0
+  _maxRandomRotation: 0
+  _randomizeScale: 1
+  _minRandomScale: 0.8
+  _maxRandomScale: 1
+  _enableSlopeCheck: 1
+  _minSlope: 0
+  _maxSlope: 0
+--- !u!114 &-8556248850262768760
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9fd0c34ebc5e2f4bb376f0d8a5bcf72, type: 3}
+  m_Name: SM_Env_Rock_03
+  m_EditorClassIdentifier: 
+  _guid:
+    _guidString: 7ed8e572-a913-4407-b79d-865d44ab837b
+  _pluginPrefab: {fileID: -1119923581395553828, guid: 322e22a40dcfcbe48b2696f6fd3c41ea, type: 2}
+  _preview:
+    _prefabAsset: {fileID: 1287420723893824, guid: f7fd817848832db4db5fbe24c4bdd2c5, type: 3}
+    _texture: {fileID: 0}
+    _yaw: 0
+    _pitch: 0
+  _uiSelected: 1
+  _used: 1
+  _spawnChance: 0.3
+  _volumeRadius: 2
+  _alignAxis: 0
+  _alignmentAxis: 1
+  _invertAlignmentAxis: 0
+  _offsetFromSurface: 0
+  _embedInSurface: 1
+  _alignToStroke: 0
+  _strokeAlignmentAxis: 3
+  _invertStrokeAlignmentAxis: 0
+  _randomizeRotation: 1
+  _rotationRandomizationAxis: 3
+  _minRandomRotation: 0
+  _maxRandomRotation: 0
+  _randomizeScale: 1
+  _minRandomScale: 0.8
+  _maxRandomScale: 1
+  _enableSlopeCheck: 1
+  _minSlope: 0
+  _maxSlope: 0
+--- !u!114 &-8092656486783333818
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9fd0c34ebc5e2f4bb376f0d8a5bcf72, type: 3}
+  m_Name: SM_Env_Tree_Dead_01
+  m_EditorClassIdentifier: 
+  _guid:
+    _guidString: 634be8c1-0125-404c-a5da-273835fba96e
+  _pluginPrefab: {fileID: 4075436332926263005, guid: 322e22a40dcfcbe48b2696f6fd3c41ea, type: 2}
+  _preview:
+    _prefabAsset: {fileID: 1796885337435754, guid: 97eeef42e1d4d814db88bb348f6c5315, type: 3}
+    _texture: {fileID: 0}
+    _yaw: 0
+    _pitch: 0
+  _uiSelected: 1
+  _used: 1
+  _spawnChance: 0.3
+  _volumeRadius: 2
+  _alignAxis: 0
+  _alignmentAxis: 1
+  _invertAlignmentAxis: 0
+  _offsetFromSurface: 0
+  _embedInSurface: 1
+  _alignToStroke: 0
+  _strokeAlignmentAxis: 3
+  _invertStrokeAlignmentAxis: 0
+  _randomizeRotation: 1
+  _rotationRandomizationAxis: 3
+  _minRandomRotation: 0
+  _maxRandomRotation: 0
+  _randomizeScale: 1
+  _minRandomScale: 0.8
+  _maxRandomScale: 1
+  _enableSlopeCheck: 1
+  _minSlope: 0
+  _maxSlope: 0
+--- !u!114 &-7577666269243577546
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9fd0c34ebc5e2f4bb376f0d8a5bcf72, type: 3}
+  m_Name: SM_Env_Tree_01
+  m_EditorClassIdentifier: 
+  _guid:
+    _guidString: cae75484-b9f6-401b-aef2-fd49fc0d308f
+  _pluginPrefab: {fileID: 1692253715045918667, guid: 322e22a40dcfcbe48b2696f6fd3c41ea, type: 2}
+  _preview:
+    _prefabAsset: {fileID: 1222315404393792, guid: 9f34d7f5d1b2bf240988044943b336b0, type: 3}
+    _texture: {fileID: 0}
+    _yaw: 0
+    _pitch: 0
+  _uiSelected: 1
+  _used: 1
+  _spawnChance: 0.3
+  _volumeRadius: 2
+  _alignAxis: 0
+  _alignmentAxis: 1
+  _invertAlignmentAxis: 0
+  _offsetFromSurface: 0
+  _embedInSurface: 1
+  _alignToStroke: 0
+  _strokeAlignmentAxis: 3
+  _invertStrokeAlignmentAxis: 0
+  _randomizeRotation: 1
+  _rotationRandomizationAxis: 3
+  _minRandomRotation: 0
+  _maxRandomRotation: 0
+  _randomizeScale: 1
+  _minRandomScale: 0.8
+  _maxRandomScale: 1
+  _enableSlopeCheck: 1
+  _minSlope: 0
+  _maxSlope: 0
+--- !u!114 &-7282028512775584066
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9fd0c34ebc5e2f4bb376f0d8a5bcf72, type: 3}
+  m_Name: SM_Env_Tree_02
+  m_EditorClassIdentifier: 
+  _guid:
+    _guidString: e705d27e-2e3f-459f-bc15-cd6b70a98e6c
+  _pluginPrefab: {fileID: -6958148573092015101, guid: 322e22a40dcfcbe48b2696f6fd3c41ea, type: 2}
+  _preview:
+    _prefabAsset: {fileID: 1744928482175998, guid: 3c8004c3271066f45af38964f5903be0, type: 3}
+    _texture: {fileID: 0}
+    _yaw: 0
+    _pitch: 0
+  _uiSelected: 1
+  _used: 1
+  _spawnChance: 0.3
+  _volumeRadius: 2
+  _alignAxis: 0
+  _alignmentAxis: 1
+  _invertAlignmentAxis: 0
+  _offsetFromSurface: 0
+  _embedInSurface: 1
+  _alignToStroke: 0
+  _strokeAlignmentAxis: 3
+  _invertStrokeAlignmentAxis: 0
+  _randomizeRotation: 1
+  _rotationRandomizationAxis: 3
+  _minRandomRotation: 0
+  _maxRandomRotation: 0
+  _randomizeScale: 1
+  _minRandomScale: 0.8
+  _maxRandomScale: 1
+  _enableSlopeCheck: 1
+  _minSlope: 0
+  _maxSlope: 0
+--- !u!114 &-5403034647495811891
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9fd0c34ebc5e2f4bb376f0d8a5bcf72, type: 3}
+  m_Name: SM_Env_Tree_Pine_Tall_02
+  m_EditorClassIdentifier: 
+  _guid:
+    _guidString: b56575c5-a104-4352-9a96-fc29d239d4c2
+  _pluginPrefab: {fileID: -362818143755912223, guid: 322e22a40dcfcbe48b2696f6fd3c41ea, type: 2}
+  _preview:
+    _prefabAsset: {fileID: 1880517695624974, guid: 39e5bd43ce65e3940a694c93b2545863, type: 3}
+    _texture: {fileID: 0}
+    _yaw: 0
+    _pitch: 0
+  _uiSelected: 1
+  _used: 1
+  _spawnChance: 0.3
+  _volumeRadius: 2
+  _alignAxis: 0
+  _alignmentAxis: 1
+  _invertAlignmentAxis: 0
+  _offsetFromSurface: 0
+  _embedInSurface: 1
+  _alignToStroke: 0
+  _strokeAlignmentAxis: 3
+  _invertStrokeAlignmentAxis: 0
+  _randomizeRotation: 1
+  _rotationRandomizationAxis: 3
+  _minRandomRotation: 0
+  _maxRandomRotation: 0
+  _randomizeScale: 1
+  _minRandomScale: 0.8
+  _maxRandomScale: 1
+  _enableSlopeCheck: 1
+  _minSlope: 0
+  _maxSlope: 0
+--- !u!114 &-5292169242894184233
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9fd0c34ebc5e2f4bb376f0d8a5bcf72, type: 3}
+  m_Name: SM_Env_Tree_03
+  m_EditorClassIdentifier: 
+  _guid:
+    _guidString: ab33b88c-6e72-4808-ab0d-27733faeef95
+  _pluginPrefab: {fileID: 8072531544884989679, guid: 322e22a40dcfcbe48b2696f6fd3c41ea, type: 2}
+  _preview:
+    _prefabAsset: {fileID: 1699663473081314, guid: 1c18faca90be3154d997801d9e951f24, type: 3}
+    _texture: {fileID: 0}
+    _yaw: 0
+    _pitch: 0
+  _uiSelected: 1
+  _used: 1
+  _spawnChance: 0.3
+  _volumeRadius: 2
+  _alignAxis: 0
+  _alignmentAxis: 1
+  _invertAlignmentAxis: 0
+  _offsetFromSurface: 0
+  _embedInSurface: 1
+  _alignToStroke: 0
+  _strokeAlignmentAxis: 3
+  _invertStrokeAlignmentAxis: 0
+  _randomizeRotation: 1
+  _rotationRandomizationAxis: 3
+  _minRandomRotation: 0
+  _maxRandomRotation: 0
+  _randomizeScale: 1
+  _minRandomScale: 0.8
+  _maxRandomScale: 1
+  _enableSlopeCheck: 1
+  _minSlope: 0
+  _maxSlope: 0
+--- !u!114 &-2241077328818687692
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9fd0c34ebc5e2f4bb376f0d8a5bcf72, type: 3}
+  m_Name: SM_Env_Tree_Pine_Tall_01
+  m_EditorClassIdentifier: 
+  _guid:
+    _guidString: 46db1d70-5693-4d51-96fd-e7a8635f9d77
+  _pluginPrefab: {fileID: 5741814349016630195, guid: 322e22a40dcfcbe48b2696f6fd3c41ea, type: 2}
+  _preview:
+    _prefabAsset: {fileID: 1259743623468626, guid: 8f3c2b79887cfc44c98b550b0b5da119, type: 3}
+    _texture: {fileID: 0}
+    _yaw: 0
+    _pitch: 0
+  _uiSelected: 1
+  _used: 1
+  _spawnChance: 0.3
+  _volumeRadius: 2
+  _alignAxis: 0
+  _alignmentAxis: 1
+  _invertAlignmentAxis: 0
+  _offsetFromSurface: 0
+  _embedInSurface: 1
+  _alignToStroke: 0
+  _strokeAlignmentAxis: 3
+  _invertStrokeAlignmentAxis: 0
+  _randomizeRotation: 1
+  _rotationRandomizationAxis: 3
+  _minRandomRotation: 0
+  _maxRandomRotation: 0
+  _randomizeScale: 1
+  _minRandomScale: 0.8
+  _maxRandomScale: 1
+  _enableSlopeCheck: 1
+  _minSlope: 0
+  _maxSlope: 0
+--- !u!114 &-594415763379600774
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9fd0c34ebc5e2f4bb376f0d8a5bcf72, type: 3}
+  m_Name: SM_Env_Rock_01
+  m_EditorClassIdentifier: 
+  _guid:
+    _guidString: a90543a5-4170-49b3-a2cc-481b380d90d3
+  _pluginPrefab: {fileID: -4101174980228046433, guid: 322e22a40dcfcbe48b2696f6fd3c41ea, type: 2}
+  _preview:
+    _prefabAsset: {fileID: 1936706459568100, guid: 0d8974133bae69b4bb417ea8542855b1, type: 3}
+    _texture: {fileID: 0}
+    _yaw: 0
+    _pitch: 0
+  _uiSelected: 1
+  _used: 1
+  _spawnChance: 0.3
+  _volumeRadius: 2
+  _alignAxis: 0
+  _alignmentAxis: 1
+  _invertAlignmentAxis: 0
+  _offsetFromSurface: 0
+  _embedInSurface: 1
+  _alignToStroke: 0
+  _strokeAlignmentAxis: 3
+  _invertStrokeAlignmentAxis: 0
+  _randomizeRotation: 1
+  _rotationRandomizationAxis: 3
+  _minRandomRotation: 0
+  _maxRandomRotation: 0
+  _randomizeScale: 1
+  _minRandomScale: 0.8
+  _maxRandomScale: 1
+  _enableSlopeCheck: 1
+  _minSlope: 0
+  _maxSlope: 0
+--- !u!114 &-540488105643271724
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9fd0c34ebc5e2f4bb376f0d8a5bcf72, type: 3}
+  m_Name: SM_Env_Tree_04
+  m_EditorClassIdentifier: 
+  _guid:
+    _guidString: 01138a7e-261c-4d4f-bed6-e8a851e6a6d0
+  _pluginPrefab: {fileID: -6807626726964572559, guid: 322e22a40dcfcbe48b2696f6fd3c41ea, type: 2}
+  _preview:
+    _prefabAsset: {fileID: 1298209708765036, guid: 17ce9522f9a9ea942adabd1cf775542d, type: 3}
+    _texture: {fileID: 0}
+    _yaw: 0
+    _pitch: 0
+  _uiSelected: 1
+  _used: 1
+  _spawnChance: 0.3
+  _volumeRadius: 2
+  _alignAxis: 0
+  _alignmentAxis: 1
+  _invertAlignmentAxis: 0
+  _offsetFromSurface: 0
+  _embedInSurface: 1
+  _alignToStroke: 0
+  _strokeAlignmentAxis: 3
+  _invertStrokeAlignmentAxis: 0
+  _randomizeRotation: 1
+  _rotationRandomizationAxis: 3
+  _minRandomRotation: 0
+  _maxRandomRotation: 0
+  _randomizeScale: 1
+  _minRandomScale: 0.8
+  _maxRandomScale: 1
+  _enableSlopeCheck: 1
+  _minSlope: 0
+  _maxSlope: 0
+--- !u!114 &-532673210051648168
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9fd0c34ebc5e2f4bb376f0d8a5bcf72, type: 3}
+  m_Name: SM_Env_Tree_Large_01
+  m_EditorClassIdentifier: 
+  _guid:
+    _guidString: d46797bf-68cc-4862-9808-d47aac867f64
+  _pluginPrefab: {fileID: 4948009948914877566, guid: 322e22a40dcfcbe48b2696f6fd3c41ea, type: 2}
+  _preview:
+    _prefabAsset: {fileID: 1707440626809706, guid: 0cf59c8d766ba654a9893978551d04a3, type: 3}
+    _texture: {fileID: 0}
+    _yaw: 0
+    _pitch: 0
+  _uiSelected: 1
+  _used: 1
+  _spawnChance: 0.3
+  _volumeRadius: 2
+  _alignAxis: 0
+  _alignmentAxis: 1
+  _invertAlignmentAxis: 0
+  _offsetFromSurface: 0
+  _embedInSurface: 1
+  _alignToStroke: 0
+  _strokeAlignmentAxis: 3
+  _invertStrokeAlignmentAxis: 0
+  _randomizeRotation: 1
+  _rotationRandomizationAxis: 3
+  _minRandomRotation: 0
+  _maxRandomRotation: 0
+  _randomizeScale: 1
+  _minRandomScale: 0.8
+  _maxRandomScale: 1
+  _enableSlopeCheck: 1
+  _minSlope: 0
+  _maxSlope: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65c2d635ec171c94e9505a455a32bc3e, type: 3}
+  m_Name: forest
+  m_EditorClassIdentifier: 
+  _profileName: forest
+  _prefabs:
+  - {fileID: -7577666269243577546}
+  - {fileID: -7282028512775584066}
+  - {fileID: -5292169242894184233}
+  - {fileID: -540488105643271724}
+  - {fileID: -8092656486783333818}
+  - {fileID: -532673210051648168}
+  - {fileID: 3099988195557957404}
+  - {fileID: 3076831858510364390}
+  - {fileID: -2241077328818687692}
+  - {fileID: -5403034647495811891}
+  - {fileID: -8580170861319675224}
+  - {fileID: -594415763379600774}
+  - {fileID: 3667263657383676850}
+  - {fileID: -8556248850262768760}
+--- !u!114 &3076831858510364390
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9fd0c34ebc5e2f4bb376f0d8a5bcf72, type: 3}
+  m_Name: SM_Env_Tree_Large_03
+  m_EditorClassIdentifier: 
+  _guid:
+    _guidString: ad5c056d-2104-4395-a8fb-0e7022e7f790
+  _pluginPrefab: {fileID: 2984993289647475774, guid: 322e22a40dcfcbe48b2696f6fd3c41ea, type: 2}
+  _preview:
+    _prefabAsset: {fileID: 1360058288125598, guid: 28e107f664dc5f048851dd759278db3c, type: 3}
+    _texture: {fileID: 0}
+    _yaw: 0
+    _pitch: 0
+  _uiSelected: 1
+  _used: 1
+  _spawnChance: 0.3
+  _volumeRadius: 2
+  _alignAxis: 0
+  _alignmentAxis: 1
+  _invertAlignmentAxis: 0
+  _offsetFromSurface: 0
+  _embedInSurface: 1
+  _alignToStroke: 0
+  _strokeAlignmentAxis: 3
+  _invertStrokeAlignmentAxis: 0
+  _randomizeRotation: 1
+  _rotationRandomizationAxis: 3
+  _minRandomRotation: 0
+  _maxRandomRotation: 0
+  _randomizeScale: 1
+  _minRandomScale: 0.8
+  _maxRandomScale: 1
+  _enableSlopeCheck: 1
+  _minSlope: 0
+  _maxSlope: 0
+--- !u!114 &3099988195557957404
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9fd0c34ebc5e2f4bb376f0d8a5bcf72, type: 3}
+  m_Name: SM_Env_Tree_Large_02
+  m_EditorClassIdentifier: 
+  _guid:
+    _guidString: 93e7d3de-473d-4869-9d83-c8495f0c0323
+  _pluginPrefab: {fileID: -6675510272763188492, guid: 322e22a40dcfcbe48b2696f6fd3c41ea, type: 2}
+  _preview:
+    _prefabAsset: {fileID: 1200782898892016, guid: 6b984089a130a3948bd007f1b60a3c6f, type: 3}
+    _texture: {fileID: 0}
+    _yaw: 0
+    _pitch: 0
+  _uiSelected: 1
+  _used: 1
+  _spawnChance: 0.3
+  _volumeRadius: 2
+  _alignAxis: 0
+  _alignmentAxis: 1
+  _invertAlignmentAxis: 0
+  _offsetFromSurface: 0
+  _embedInSurface: 1
+  _alignToStroke: 0
+  _strokeAlignmentAxis: 3
+  _invertStrokeAlignmentAxis: 0
+  _randomizeRotation: 1
+  _rotationRandomizationAxis: 3
+  _minRandomRotation: 0
+  _maxRandomRotation: 0
+  _randomizeScale: 1
+  _minRandomScale: 0.8
+  _maxRandomScale: 1
+  _enableSlopeCheck: 1
+  _minSlope: 0
+  _maxSlope: 0
+--- !u!114 &3667263657383676850
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9fd0c34ebc5e2f4bb376f0d8a5bcf72, type: 3}
+  m_Name: SM_Env_Rock_02
+  m_EditorClassIdentifier: 
+  _guid:
+    _guidString: 85e9cbdc-3e8f-4ea1-923f-0d40df33f7df
+  _pluginPrefab: {fileID: 8515899894347529527, guid: 322e22a40dcfcbe48b2696f6fd3c41ea, type: 2}
+  _preview:
+    _prefabAsset: {fileID: 1953317842719524, guid: 8d16041c0d131c94fa77f8401777777f, type: 3}
+    _texture: {fileID: 0}
+    _yaw: 0
+    _pitch: 0
+  _uiSelected: 1
+  _used: 1
+  _spawnChance: 0.3
+  _volumeRadius: 2
+  _alignAxis: 0
+  _alignmentAxis: 1
+  _invertAlignmentAxis: 0
+  _offsetFromSurface: 0
+  _embedInSurface: 1
+  _alignToStroke: 0
+  _strokeAlignmentAxis: 3
+  _invertStrokeAlignmentAxis: 0
+  _randomizeRotation: 1
+  _rotationRandomizationAxis: 3
+  _minRandomRotation: 0
+  _maxRandomRotation: 0
+  _randomizeScale: 1
+  _minRandomScale: 0.8
+  _maxRandomScale: 1
+  _enableSlopeCheck: 1
+  _minSlope: 0
+  _maxSlope: 0

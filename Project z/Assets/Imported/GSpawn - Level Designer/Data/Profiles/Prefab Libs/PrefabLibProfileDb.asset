@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fe82a2417215724a9be3166910ed92e, type: 3}
+  m_Name: PrefabLibProfileDb
+  m_EditorClassIdentifier: 
+  _profiles:
+  - {fileID: 11400000, guid: 322e22a40dcfcbe48b2696f6fd3c41ea, type: 2}
+  _activeProfile: {fileID: 11400000, guid: 322e22a40dcfcbe48b2696f6fd3c41ea, type: 2}
+  _prefabCreationSettingsUI: {fileID: 11400000, guid: 42cecc343ffa54644911fd73bed7f22a, type: 2}
+  _objectGroupCreationSettingsUI: {fileID: 0}
+--- !u!114 &2194363082493704213
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d78f77521bb1424d90dc20b0de9cee3, type: 3}
+  m_Name: PrefabLibProfileDbUI_LibViewState
+  m_EditorClassIdentifier: 
+  selectedItems:
+    _serializedList:
+    - _guidString: e0819ae1-e98f-4d66-9a5b-86e7077b8d9e
+  collapsedItems:
+    _serializedList:
+    - _guidString: bf329e3f-8d05-4a25-9133-c015609cbc66
+    - _guidString: b6a00fcf-5bd9-4a2c-bbce-338b037e37fb
+    - _guidString: a8757914-ba37-45a6-9429-addd89f4afcf
+  selectRangeBeginId:
+    _guidString: e0819ae1-e98f-4d66-9a5b-86e7077b8d9e
+  selectRangeEndId:
+    _guidString: e0819ae1-e98f-4d66-9a5b-86e7077b8d9e
+  hasSelectRange: 1
+  scrollOffset: {x: 0, y: 0}
+  vertScrollHighValue: 169
+  vertScrollLowValue: 0
+--- !u!114 &5558885975532843029
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43a9940f958e79347881876bc04c02dc, type: 3}
+  m_Name: PluginPrefabManagerUI_PrefabViewState
+  m_EditorClassIdentifier: 
+  selectedItems:
+    _serializedList:
+    - _guidString: 85751bad-a511-459f-9d47-1c39ead02c71
+  selectRangeBeginId:
+    _guidString: 85751bad-a511-459f-9d47-1c39ead02c71
+  selectRangeEndId:
+    _guidString: 85751bad-a511-459f-9d47-1c39ead02c71
+  hasSelectRange: 1
+  scrollOffset: {x: 0, y: 693}
+  vertScrollHighValue: 1183
+  vertScrollLowValue: 0
